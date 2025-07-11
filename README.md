@@ -1,6 +1,8 @@
 # Payroll Management System
 
-A comprehensive web-based payroll management system built with PHP, MySQL, and Bootstrap. This system provides complete payroll processing capabilities including employee management, attendance tracking, salary calculations, and payslip generation.
+**Developed by Abdilamu as a course project for Web Design and Programming at Haramaya University**
+
+A comprehensive web-based payroll management system built with PHP, MySQL, and Bootstrap, specifically developed for Haramaya University. This system provides complete payroll processing capabilities including employee management, attendance tracking, salary calculations, and payslip generation.
 
 ## 🚀 Features
 
